@@ -2,8 +2,6 @@
 
 This project explores the evaluation of open-source AI models for analyzing student competence in programming and educational tasks. The focus is on identifying, testing, and reasoning about models such as CodeBERT (Hugging Face), EduNLP, and Large Language Models (LLMs), and assessing their applicability in education-related contexts. The work involves preparing a research plan, evaluating model suitability, and presenting clear reasoning for model selection. <br>
 
-Ultimately, the project highlights the strengths and limitations of using pretrained code models for competence analysis in education, laying groundwork for integrating AI into learning environments.
-
 ## Table of Contents
 1. Reaserch Plan
 2. Reasoning and Decision Making
